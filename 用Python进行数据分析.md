@@ -15,6 +15,10 @@
 - Python(x,y)
 
 ## Python 记录
+
+对引入的库创建一个别名
+
 ``` Python
 import numpy as ny
+import pandas as pd
 ```
