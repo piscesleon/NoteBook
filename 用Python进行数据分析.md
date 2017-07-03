@@ -21,4 +21,15 @@
 ``` Python
 import numpy as ny
 import pandas as pd
+import matplotlib.pyplot as plt
 ```
+
+常用术语
+- 数据规整(Munge/Munging/Wrangling)
+  - 将非结构化和散乱数据处理为结构化或整洁形式的过程
+- 伪码(Pseudocode)
+  - 算法或过程的“代码式”描述，而这些代码本身并不是实际有效的源代码
+- 语法糖(Syntactic sugar)
+  - 是一种编程语法，不会带来新的特性，但能使代码更易读易写
+- Json
+  - JavaScript Object Notation，是一种常用的Web数据格式
